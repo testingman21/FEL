@@ -1,0 +1,22 @@
+#test{
+color: aqua;
+position: relative;
+}
+#main{
+    color: aqua;
+    position: relative;
+}
+#next{
+background-color: red;
+position: relative;
+}
+#major{
+    background-color: beige;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#title{
+    font-size: 4vw;
+}
